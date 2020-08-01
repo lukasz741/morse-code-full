@@ -20,4 +20,8 @@ alphabet to use :
             '-': '-....-', '+': '.-.-.', '/': '-..-.',
             '(': '-.--.', ')': '-.--.-', '=': '-...-'
             
+to use `CLICK-input to text` translate option:
+ holding spacebar more than 4 seconds adds spacebar
+ holding spacebar between 2 and 4 seconds adds `-`
+ holding spacebar less than 2 seconds adds `.`
             
