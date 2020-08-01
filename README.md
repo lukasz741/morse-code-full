@@ -1,5 +1,8 @@
 # morse-code-full
 
+MORSE_FINAL_spacebar.py has 3 translate options(text to morse, morse to code, and input text with spacebar to text);
+morse_code_creator.py has only text to morse and morse to code
+
 alphabet to use : 
             'A': '.-', 'B': '-...', 'C': '-.-.',
             'D': '-..', 'E': '.', 'F': '..-.',
